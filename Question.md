@@ -20,7 +20,7 @@
 
 🎯 **請設計一個符合條件的 Python 測試題！**
 
-** chatgpt 回答
+#chatgpt 回答
 
 # 🐍 Python 基礎測試題
 
